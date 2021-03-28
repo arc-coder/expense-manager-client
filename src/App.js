@@ -1,5 +1,7 @@
+import MainWrapper from './routes/MainWrapper';
+
 function App() {
-    return <div></div>;
+    return <MainWrapper />;
 }
 
 export default App;
